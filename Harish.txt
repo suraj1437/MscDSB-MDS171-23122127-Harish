@@ -1,0 +1,6 @@
+Welcome 	:	 Harish
+Number 	:	9704524723
+nItem 	:	 	:	Icecream
+nPrice 	:	50
+Quantity 	:	10
+Total Amount 	:	500
