@@ -5,7 +5,6 @@ Name : Patha harish Kumar
 
 
 
-
-|lab no.| questions | link of file| 
-
-|-------|-----------|-------------|-----|
+|sl.no |lab name|question|
+|------|--------|--------|
+|1.    |nana    |1       |
