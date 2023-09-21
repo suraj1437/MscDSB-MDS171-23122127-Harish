@@ -1,6 +1,6 @@
-Welcome 	:	 Harish
-Number 	:	9704524723
-nItem 	:	 	:	Icecream
-nPrice 	:	50
-Quantity 	:	10
-Total Amount 	:	500
+Welcome 	:	 harish
+Number 	:	90
+nItem 	:	 	:	mango
+nPrice 	:	12
+Quantity 	:	5
+Total Amount 	:	60

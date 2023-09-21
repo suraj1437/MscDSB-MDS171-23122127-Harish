@@ -1,0 +1,5 @@
+Welcome 	:	 a
+Number 	:	q
+nItem 	:	 	:	q
+nPrice 	:	q
+Quantity 	:	q
