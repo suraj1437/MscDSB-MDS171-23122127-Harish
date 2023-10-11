@@ -14,6 +14,15 @@ Name : Patha harish Kumar
 |   3      |  31-08-2023 |      lab03       |  The Tale of Numbers' Harmony with the Problems Associated with it | https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/blob/b8b7b28453a72682db230d67b08f24f5357d599a/lab03.ipynb            |
 |   4      |  05-09-2023 |      lab04       |  A Taste of Success: The Restaurant Management System | https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/blob/2eac6b1cbe40ec9b3fa215c5574e2dc7d8a5a0e6/lab04.ipynb                         |
 |   5      |  12-09-2023 |      lab05       | Write a program for collecting a string from the user and counting the number of vowels|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/blob/719f8e4bd276626487dd8426736334f5a4622237/lab05.ipynb     |
+|   6      |  12-09-2023 |      lab05       | Write a program for collecting a string from the user and counting the number of vowels|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/blob/719f8e4bd276626487dd8426736334f5a4622237/lab05.ipynb     |
+
+|   7      |  12-09-2023 |      lab05       | Write a program for collecting a string from the user and counting the number of vowels|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/blob/719f8e4bd276626487dd8426736334f5a4622237/lab05.ipynb     |
+
+|   8     |  12-09-2023 |      lab05       | Write a program for collecting a string from the user and counting the number of vowels|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/blob/719f8e4bd276626487dd8426736334f5a4622237/lab05.ipynb     |
+
+|   9     |  10-10-2023 |      lab09     | Crteating  A Class PETNAME And Importing Module|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/tree/fce5a7fe73d883c158b34db109e64c4b962bcbbd/lab09    |
+
+
 
 
 
