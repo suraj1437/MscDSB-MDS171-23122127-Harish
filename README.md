@@ -17,7 +17,7 @@ Name : Patha harish Kumar
 |   6      |  12-09-2023 |      lab06       | Write a program for collecting Grocery|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/tree/a634c450977473597e47898ae25a193612919267/lab06     |
 |   7      |  12-09-2023 |      lab07       | Write a program for Expense Tracker|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/tree/fb156473edde1099548f70d7d25b288a380cb49e/lab07     |
 |   8     |  12-09-2023 |      lab08      | Write a program For Stack push,pop and other 
- functions|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/blob/719f8e4bd276626487dd8426736334f5a4622237/lab05.ipynb     |
+ functions|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/blob/fb156473edde1099548f70d7d25b288a380cb49e/lab08.ipynb    |
 |   9     |  10-10-2023 |      lab09     | Creating  A Class PETNAME And Importing Module|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/tree/fce5a7fe73d883c158b34db109e64c4b962bcbbd/lab09|
 
 
