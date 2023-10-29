@@ -6,7 +6,6 @@ Name : Patha harish Kumar
 
 
 
-
 |Serial No.|    DATE     |  File Name       |                     QUESTION                         |      File Link            |             
 |----------|------------ | -----------------|------------------------------------------------------|---------------------------|
 |   1      |  23-08-2023 |      lab01       |  Write a program to enter name and push it to github |    https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/blob/333f7fa1cdc4c6a10eb376c5f64940bdbdb0c010/lab01.ipynb                       |
@@ -18,6 +17,8 @@ Name : Patha harish Kumar
 |   7      |  19-09-2023 |      lab07       | Write a program for Expense Tracker|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/tree/fb156473edde1099548f70d7d25b288a380cb49e/lab07     |
 |   8     |  03-10-2023 |      lab08      | Write a program For Stack push,pop and other functions|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/blob/fb156473edde1099548f70d7d25b288a380cb49e/lab08   |
 |   9     |  10-10-2023 |      lab09     | Creating  A Class PETNAME And Importing Module|https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/tree/fce5a7fe73d883c158b34db109e64c4b962bcbbd/lab09|
+|   10     |  10-10-2023 |      lab10     |Creating Students Marks in Class|
+https://github.com/suraj1437/MscDSB-MDS171-23122127-Harish/blob/008064183b53a4a0c299d77cfc1d04c52ac771dc/LAB/Lab%2010.ipynb|
 
 
 
