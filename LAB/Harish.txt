@@ -1,6 +1,0 @@
-Welcome 	:	 harish
-Number 	:	90
-nItem 	:	 	:	mango
-nPrice 	:	12
-Quantity 	:	5
-Total Amount 	:	60

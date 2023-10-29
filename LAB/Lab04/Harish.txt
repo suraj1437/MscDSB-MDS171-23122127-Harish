@@ -1,0 +1,6 @@
+Welcome 	:	 harish
+Number 	:	84844
+nItem 	:	 	:	egg
+nPrice 	:	10
+Quantity 	:	5
+Total Amount 	:	50
